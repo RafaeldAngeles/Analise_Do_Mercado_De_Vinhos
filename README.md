@@ -12,7 +12,7 @@ O objetivo deste projeto é realizar uma análise exploratória dos dados do mer
 
 ## Metodologia
 
-A análise dos dados será realizada utilizando a linguagem de programação Python, com foco na análise exploratória de dados. Serão formuladas perguntas específicas sobre o mercado de vinhos, e serão utilizadas visualizações gráficas e estatísticas descritivas para responder a essas perguntas. As fontes de dados utilizadas nesta análise estão disponíveis [aqui](URL_DA_FONTE_DE_DADOS).
+A análise dos dados será realizada utilizando a linguagem de programação Python, com foco na análise exploratória de dados. Serão formuladas perguntas específicas sobre o mercado de vinhos, e serão utilizadas visualizações gráficas e estatísticas descritivas para responder a essas perguntas.
 
 ## Conclusão
 
